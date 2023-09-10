@@ -1,0 +1,9 @@
+body {
+  font-family: 'Prata', sans-serif;
+}
+.center-align-text {
+  text-align: center;
+}
+.paragraph-spacing {
+  margin-bottom: 20px;
+}
