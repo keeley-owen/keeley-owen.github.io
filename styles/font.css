@@ -7,3 +7,6 @@ body {
 .paragraph-spacing {
   margin-bottom: 20px;
 }
+.center-align-text {
+  font-size: medium;
+}
