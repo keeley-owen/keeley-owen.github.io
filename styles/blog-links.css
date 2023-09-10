@@ -16,3 +16,10 @@
   border: 1px solid aquamarine;
   margin: auto;
 }
+
+#classes-picture {
+  max-width: 600px;
+}
+#id-picture {
+  max-width: 600px;
+}
