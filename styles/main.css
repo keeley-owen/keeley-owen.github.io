@@ -9,6 +9,9 @@ body {
   background: whitesmoke;
   margin: 0;
 }
+header {
+  color: black;
+}
 nav {
   background-color: black;
   color: gray;
